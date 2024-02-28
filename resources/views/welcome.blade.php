@@ -433,7 +433,7 @@
                 </svg>
             </div>
 
-            <h1>Branch Register</h1>
+            <h1>Halaman Main Branch</h1>
         </div>
     </div>
 </body>
