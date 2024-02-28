@@ -433,7 +433,7 @@
                 </svg>
             </div>
 
-            <h1>Selamat Datang</h1>
+            <h1>Branch Register</h1>
         </div>
     </div>
 </body>
